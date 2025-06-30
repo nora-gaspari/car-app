@@ -1,0 +1,25 @@
+# Ignorar node_modules em ambos os projetos (pastas de dependências)
+backend/node_modules/
+frontend/node_modules/
+
+# Ignorar arquivos de ambiente (contêm informações sensíveis como chaves de API, senhas de banco de dados)
+backend/.env
+frontend/.env
+
+# Ignorar logs gerados pela aplicação
+*.log
+
+# Ignorar arquivos de cache e temporários de sistemas operacionais ou editores
+.DS_Store
+.vscode/ # Pasta de configurações do VS Code (opcional, mas recomendado para evitar conflitos)
+*.tmp
+*.swp
+
+# Ignorar a pasta de build do frontend (gerada ao compilar o React para produção)
+frontend/build/
+
+# Ignorar arquivos de lock do npm (gerados automaticamente pelo npm install)
+package-lock.json
+
+# Ignorar arquivos de upload (se a aplicação permitir upload de arquivos, esta pasta não deve ser versionada)
+**/upload/

@@ -1,0 +1,5 @@
+# Ignorar arquivos de log específicos do frontend
+npm-debug.log
+
+# Ignorar arquivos de cache do React (gerados durante o desenvolvimento)
+.cache/

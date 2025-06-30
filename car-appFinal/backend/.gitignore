@@ -1,0 +1,5 @@
+# Ignorar arquivos de log específicos do backend
+npm-debug.log
+
+# Ignorar arquivos de cache do nodemon (ferramenta de desenvolvimento)
+.nodemon/
