@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/car-app/static/js/main.f1ea0533.js",
-    "index.html": "/car-app/index.html",
-    "main.f1ea0533.js.map": "/car-app/static/js/main.f1ea0533.js.map"
+    "main.js": "/fullstack-project/static/js/main.f1ea0533.js",
+    "index.html": "/fullstack-project/index.html",
+    "main.f1ea0533.js.map": "/fullstack-project/static/js/main.f1ea0533.js.map"
   },
   "entrypoints": [
     "static/js/main.f1ea0533.js"
